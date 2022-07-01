@@ -20,3 +20,19 @@
 	 </p>
   </div>
 </div>
+
+<br>
+
+<!--Nossa equipe -->
+<div>
+	<h2> :family_woman_woman_girl_girl: Nossa equipe </h2>
+	<div align="center">
+		<div>
+			<img src="">
+		</div>
+		<div>
+			Diego
+		</div>
+	</div>
+	
+</div>
