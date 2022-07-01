@@ -56,8 +56,17 @@
 	<h2> :woman_technologist: Tecnologias que utilizamos</h2>
 	<br>
    	<div align="center">
- 		<img src="https://img.icons8.com/ios/100/7936FC/html-5--v2.png"/>
-		<title="Um T-Rex em exibição no Museu da Universidade de Manchester">
-		<img src="https://img.icons8.com/ios/100/7936FC/css3.png"/>
- 	
+	<h3> :star2: Front-end :star2:</h3>
+	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<h3> :star2: Back-end :star2:</h3>
+	<img height="65" src="https://icongr.am/devicon/java-original.svg?size=66&color=000000">
+	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+	<h3> :star2: Banco de Dados :star2:</h3>
+	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   </div>
+  
+  
+  
