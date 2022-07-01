@@ -43,3 +43,11 @@
 	
 </div>
 
+<!-- Tecnologias -->
+
+<div> 
+	<h2> :woman_technologist: Tecnologias utilizadas </h2>
+
+</div>
+
+
