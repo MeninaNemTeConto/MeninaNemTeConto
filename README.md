@@ -46,11 +46,18 @@
 <br>
 
 <!-- Tecnologias -->
-
 <div> 
-	<h2> :woman_technologist: Tecnologias utilizadas</h2>
-
-
+	
+	
+	
 </div>
 
-
+<div>
+	<h2> :woman_technologist: Tecnologias utilizadas</h2>
+	<br>
+   	<div align="center">
+ 		<img src="https://img.icons8.com/ios/100/7936FC/html-5--v2.png"/>
+		<title="Um T-Rex em exibição no Museu da Universidade de Manchester">
+		<img src="https://img.icons8.com/ios/100/7936FC/css3.png"/>
+ 	
+  </div>
