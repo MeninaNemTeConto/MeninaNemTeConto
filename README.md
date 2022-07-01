@@ -53,7 +53,7 @@
 </div>
 
 <div>
-	<h2> :woman_technologist: Tecnologias utilizadas</h2>
+	<h2> :woman_technologist: Tecnologias que utilizamos</h2>
 	<br>
    	<div align="center">
  		<img src="https://img.icons8.com/ios/100/7936FC/html-5--v2.png"/>
