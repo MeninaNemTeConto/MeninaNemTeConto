@@ -28,17 +28,17 @@
 <div>
 	<h2> :family_woman_woman_girl_girl: Nossa equipe </h2>
 	<div align="center">
-		<a href="" target="_blank"><img src="Camilly.png" height="180"></a>
-		<a href="" target="_blank"><img src="Giu.png" height="180"></a>
-		<a href="" target="_blank"><img src="Didi.png" height="180"></a>
-		<a href="" target="_blank"><img src="Matheus.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/camily-vit%C3%B3ria/" target="_blank"><img src="Camilly.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/giullia-maria/" target="_blank"><img src="Giu.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/diego-ssantos/" target="_blank"><img src="Didi.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/matheus-silverio-silva/" target="_blank"><img src="Matheus.png" height="180"></a>
 	</div>
 	<br>
 	<div align="center">
-		<a href="" target="_blank"><img src="Igor.png" height="180"></a>
-		<a href="" target="_blank"><img src="Henrique.png" height="180"></a>
-		<a href="" target="_blank"><img src="Lucas.png" height="180"></a>
-		<a href="" target="_blank"><img src="Pedro.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/igor-viana-da-silva-839586234/" target="_blank"><img src="Igor.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/henriquesaraujo/" target="_blank"><img src="Henrique.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/lucaswaldes/" target="_blank"><img src="Lucas.png" height="180"></a>
+		<a href="https://www.linkedin.com/in/pedro-henrique-541b221b9/" target="_blank"><img src="Pedro.png" height="180"></a>
 	</div>
 	
 </div>
