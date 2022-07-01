@@ -1,3 +1,4 @@
+
 <!--Header-->
 <div align="center"> 
   <img src="menina_nem_te_conto_tipo_outline.png" height="350">
@@ -27,12 +28,18 @@
 <div>
 	<h2> :family_woman_woman_girl_girl: Nossa equipe </h2>
 	<div align="center">
-		<div>
-			<img src="">
-		</div>
-		<div>
-			Diego
-		</div>
+		<a href="" target="_blank"><img src="Camilly.png" height="180"></a>
+		<a href="" target="_blank"><img src="Giu.png" height="180"></a>
+		<a href="" target="_blank"><img src="Didi.png" height="180"></a>
+		<a href="" target="_blank"><img src="Matheus.png" height="180"></a>
+	</div>
+	<br>
+	<div align="center">
+		<a href="" target="_blank"><img src="Igor.png" height="180"></a>
+		<a href="" target="_blank"><img src="Henrique.png" height="180"></a>
+		<a href="" target="_blank"><img src="Lucas.png" height="180"></a>
+		<a href="" target="_blank"><img src="Pedro.png" height="180"></a>
 	</div>
 	
 </div>
+
